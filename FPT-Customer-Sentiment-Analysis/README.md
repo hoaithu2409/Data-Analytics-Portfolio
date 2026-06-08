@@ -38,6 +38,7 @@ Customer sentiment analysis project using Machine Learning and NLP to evaluate u
 https://drive.google.com/drive/folders/1wzImKg17OzoyANJHgwarPWYZE7WV36Kr?usp=drive_link
 
 
+
 Nguyễn Hoài Thu
 
 Data Analyst | Business Intelligence | Retail Analytics
