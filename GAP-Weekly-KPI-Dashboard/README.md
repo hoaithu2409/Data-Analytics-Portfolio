@@ -49,7 +49,13 @@ Business Intelligence Dashboard for monitoring sales performance, inventory and 
 - Compare store performance and inventory efficiency.
 - Monitor promotion impact on revenue.
 - Support data-driven business decisions.
+## Project Files
 
+📄 Dashboard Report (PDF)
+📁 Source Files (.pbix & SQL)
+
+Google Drive:
+https://drive.google.com/drive/folders/18Fny-nl4OUmahIu0IlEoMGgKhDB74kXA?usp=drive_link
 ---
 
 ## Author
