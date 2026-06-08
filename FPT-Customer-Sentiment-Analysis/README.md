@@ -33,9 +33,8 @@ Customer sentiment analysis project using Machine Learning and NLP to evaluate u
 
 ## Project Files
 
-📄 Full Report:https://drive.google.com/drive/folders/1wzImKg17OzoyANJHgwarPWYZE7WV36Kr?usp=drive_link
-
-## Author
+📄 Full Report:
+https://drive.google.com/drive/folders/1wzImKg17OzoyANJHgwarPWYZE7WV36Kr?usp=drive_link
 
 Nguyễn Hoài Thu
 
