@@ -13,4 +13,4 @@ Business Intelligence Dashboard for monitoring sales performance, inventory and 
 
 ## Dashboard Preview
 
-(Updating...)
+![Dashboard](dashboard.png)
