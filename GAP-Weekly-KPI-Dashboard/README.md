@@ -42,17 +42,30 @@ Business Intelligence Dashboard for monitoring sales performance, inventory and 
 ![Dashboard](dashboard.png.jpg)
 
 ---
+## Key Insights
 
+- Store 413 achieved the highest weekly revenue performance.
+- Store 668 showed low inventory turnover and requires optimization.
+- Womens and Mens categories contributed nearly 70% of total revenue.
+- Promotion campaigns generated significant sales uplift across stores.
+  
+---
 ## Business Value
 
 - Centralized KPI reporting across stores.
 - Compare store performance and inventory efficiency.
 - Monitor promotion impact on revenue.
 - Support data-driven business decisions.
-## Project Files
+
+  ---
+## Resources
 
 📄 Dashboard Report (PDF)
-📁 Source Files (.pbix & SQL)
+
+💾 Source Files (.pbix & SQL)
+
+🔗 Google Drive:
+https://drive.google....
 
 Google Drive:
 https://drive.google.com/drive/folders/18Fny-nl4OUmahIu0IlEoMGgKhDB74kXA?usp=drive_link
