@@ -57,7 +57,7 @@ Business Intelligence Dashboard for monitoring sales performance, inventory and 
 - Monitor promotion impact on revenue.
 - Support data-driven business decisions.
 
-  ---
+---
 ## Resources
 
 📄 Dashboard Report (PDF)
@@ -67,12 +67,10 @@ Business Intelligence Dashboard for monitoring sales performance, inventory and 
 🔗 Google Drive:
 https://drive.google....
 
-Google Drive:
-https://drive.google.com/drive/folders/18Fny-nl4OUmahIu0IlEoMGgKhDB74kXA?usp=drive_link
 ---
 
 ## Author
 
-**Nguyễn Hoài Thu**
+Nguyễn Hoài Thu
 
-Data Analyst | Business Intelligence
+Data Analyst | Retail Analytics | Business Intelligence
